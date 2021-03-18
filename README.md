@@ -1,2 +1,2 @@
 # Encuentra el tesoro
- Este es un juego que tienes que dar click para encontrar el tesoro
+ Sinceramente hice esto para practicar Jquery no tengo planes de actualizar ni mejorar solamente lo guardo y ya está.
